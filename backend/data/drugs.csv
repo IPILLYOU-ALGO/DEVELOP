@@ -1,0 +1,217 @@
+drug_no,drug_name,drug_name_en,drug_material,drug_company,drug_shape,drug_color,drug_print_front,drug_print_back,drug_line_front,drug_line_back,drug_price_amount,drug_price_unit,drug_price,drug_illness,drug_img_key
+K-022846,가브스정 50mg,Galvus Tab. 50mg,빌다글립틴,한국노바티스(주),원형,하양,NVR,FB,,,1,정,240,당뇨,http://connectdi.com/design/img/drug/1MecIOjA6aR.jpg
+K-023084,글리멜정 3mg,Glimel Tab.,글리메피리드,동아에스티(주),기타,노랑,GL3분할선GL3,분할선,-,-,1,정,236,당뇨,http://connectdi.com/design/img/drug/151672201851500047.jpg
+K-023085,글리멜정 4mg,Glimel Tab.,글리메피리드,동아에스티(주),기타,파랑,GL4분할선GL4,분할선,-,-,1,정,284,당뇨,http://connectdi.com/design/img/drug/151672201851500053.jpg
+K-023092,리피논정 10mg,Lipinon Tab. 10mg,무수아토르바스타틴칼슘,동아에스티(주),타원형,하양,LPT,10,,,1,정,633,고지혈증,http://connectdi.com/design/img/drug/151914121291300062.jpg
+K-023208,글루코다운오알서방정 750mg,Glucodaun OR Tab. 750mg,메트포르민염산염,한올바이오파마(주),장방형,분홍,GD OR,750,,,1,정,113,당뇨,http://connectdi.com/design/img/drug/148665483160200094.jpg
+K-023252,암로스핀정(암로디핀베실산염),Amlospine Tab.,암로디핀베실산염,동국제약(주),팔각형,하양,AL분할선S,마크,-,,1,정,287,협심증,http://connectdi.com/design/img/drug/1Mp3yEn24Q2.jpg
+K-023357,코스카정 100mg,Cosca Tab. 100mg,로사르탄칼륨,에스케이케미칼(주),기타,하양,SK,L100,,,1,정,686,고혈압,http://connectdi.com/design/img/drug/147427883772600179.jpg
+K-023424,가브스메트정 50/850mg,Galvusmet Tab 50/850mg,빌다글립틴|메트포르민염산염,한국노바티스(주),타원형,노랑,SEH,NVR,,,1,정,327,당뇨,http://connectdi.com/design/img/drug/1MecIOjA6bd.jpg
+K-023425,가브스메트정 50/1000mg,Galvusmet Tab 50/1000mg,빌다글립틴|메트포르민염산염,한국노바티스(주),타원형,노랑,FLO,NVR,,,1,정,333,당뇨,http://connectdi.com/design/img/drug/1MecIOjA6b1.jpg
+K-023544,트라스펜정,Traspen Tab.,트라마돌염산염|아세트아미노펜,한미약품(주),장방형,노랑,HM,T/A,,,1,정,190,관절염,http://connectdi.com/design/img/drug/151853646956100072.jpg
+K-023594,페인리스세미정,Painless Semi Tab.,트라마돌염산염|아세트아미노펜,한국콜마(주),장방형,노랑,KK,PI,,,1,정,121,관절염,http://connectdi.com/design/img/drug/1NXa2J_Kcyv.jpg
+K-023599,울트라스크세미정,Ultrask Semi Tab.,아세트아미노펜|트라마돌염산염,에스케이케미칼(주),장방형,노랑,SK,U/S,,,1,정,107,관절염,http://connectdi.com/design/img/drug/154333339425900001.jpg
+K-023612,울트라스크정,Ultrask Tab.,아세트아미노펜|트라마돌염산염,에스케이케미칼(주),장방형,노랑,SK,USK,,,1,정,162,관절염,http://connectdi.com/design/img/drug/151922765025100047.jpg
+K-023729,하이세펜정,Hycephen Tab.,아세트아미노펜|트라마돌염산염,(주)한국파마,장방형,노랑,KP,T분할선A,,-,1,정,162,관절염,http://connectdi.com/design/img/drug/147427893111400106.jpg
+K-023740,아마릴-멕스서방정 2/500mg,Amaryl-Mex SR Tab. 2/500mg,메트포르민염산염|글리메피리드,(주)한독,장방형,하양,SR25,,,,1,정,290,당뇨,http://connectdi.com/design/img/drug/147427888519700087.jpg
+K-023779,코자르탄플러스정,Cozartan Plus Tab.,로사르탄칼륨|히드로클로로티아지드,동아에스티(주),타원형,노랑,CZP,,,,1,정,488,고혈압,http://connectdi.com/design/img/drug/147427868771300061.jpg
+K-023804,파라마셋정,Paramacet Tab.,트라마돌염산염|아세트아미노펜,동아에스티(주),장방형,노랑,DAPM,,,,1,정,162,관절염,http://connectdi.com/design/img/drug/147427916805700098.jpg
+K-023807,파라마셋세미정,Paramacet Semi Tab.,트라마돌염산염|아세트아미노펜,동아에스티(주),장방형,노랑,DASM,,,,1,정,107,관절염,http://connectdi.com/design/img/drug/147427916805700095.jpg
+K-023829,코자르탄플러스프로정(비매품),Cosartan Plus Pro Tab.,로사르탄칼륨|히드로클로로티아지드,동아에스티(주),타원형,하양,CZPP,,,,1,정,637,고혈압,http://connectdi.com/design/img/drug/147427916805700048.jpg
+K-023838,코자르탄플러스에프정(비매품),Corzartan Plus F Tab.,로사르탄칼륨|히드로클로로티아지드,동아에스티(주),타원형,노랑,CZPF,,,,1,정,639,고혈압,http://connectdi.com/design/img/drug/147427868771300064.jpg
+K-023957,디아미크롱서방정(글리클라지드),Diamicron MR Tab. 30mg,글리클라지드,한국세르비에(주),장방형,하양,DIA 30,마크,,,1,정,118,당뇨,http://connectdi.com/design/img/drug/154597923621100054.jpg
+K-024162,칸데모어정 8mg,Candemore Tab. 8mg,칸데사르탄실렉세틸,(주)종근당,원형,분홍,C분할선8,CKD,-,,1,정,473,고혈압,http://connectdi.com/design/img/drug/1MtVfJYNxrM.jpg
+K-024631,리피논정 80mg,Lipinon Tab. 80mg,무수아토르바스타틴칼슘,동아에스티(주),타원형,하양,LPT,80,,,1,정,1291,고지혈증,http://connectdi.com/design/img/drug/147426403087300161.jpg
+K-027338,클란자CR정(아세클로페낙)(수출용),Clanza CR Tab.,아세클로페낙,한국유나이티드제약(주),장방형,하양,UT,CL CR,,,1,정,411,관절염,http://connectdi.com/design/img/drug/147426492165100022.jpg
+K-027693,디아미크롱서방정 60mg,DIAMICRON MR TAB 60㎎,글리클라지드,한국세르비에(주),타원형,하양,DIA분할선60,DIA분할선60,-,-,1,정,178,당뇨,http://connectdi.com/design/img/drug/150885967441000033.jpg
+K-027733,트윈스타정 40/5mg,Twynsta Tab. 40/5mg,텔미사르탄|암로디핀베실산염,한국베링거인겔하임(주),타원형,하양,마크 A1,,,,1,정,697,협심증,http://connectdi.com/design/img/drug/1MnfO1MVz0w.jpg
+K-027735,트윈스타정 80/5mg,Twynsta Tab. 80/5mg,텔미사르탄|암로디핀베실산염,한국베링거인겔하임(주),타원형,하양,마크 A3,,,,1,정,842,협심증,http://connectdi.com/design/img/drug/147426508636700139.jpg
+K-027840,텔미원정 80mg,Telmi-one Tab. 80mg,텔미사르탄,에이치케이이노엔(주),타원형,하양,M2,,,,1,정,566,고혈압,http://connectdi.com/design/img/drug/146032871486700193.jpg
+K-028010,칸데모어정 32mg,Candemore Tab. 32mg,칸데사르탄실렉세틸,(주)종근당,원형,분홍,C분할선32,CKD,-,,1,정,830,고혈압,http://connectdi.com/design/img/drug/1MtVfJYNxsY.jpg
+K-028073,온글라이자정 5mg,Onglyza Tablet 5mg,삭사글립틴수화물,한국아스트라제네카(주),원형,분홍,5,4215,,,1,정,826,당뇨,http://connectdi.com/design/img/drug/147426528014500158.jpg
+K-028074,온글라이자정 2.5mg,Onglyza Tablet 2.5mg,삭사글립틴수화물,한국아스트라제네카(주),원형,노랑,2.5,4214,,,1,정,570,당뇨,http://connectdi.com/design/img/drug/154661642891500043.jpg
+K-028081,바로살탄정 160mg,Varosartan Tab. 160mg,발사르탄,동아에스티(주),타원형,갈색,V분할선A,160,-,,1,정,939,고혈압,http://connectdi.com/design/img/drug/147426528014500179.jpg
+K-028122,프라닥사캡슐 110mg,Pradaxa Caps. 110mg,다비가트란에텍실레이트메실산염,한국베링거인겔하임(주),장방형,파랑,마크 R110,,,,1,캡슐,1166,뇌졸중,http://connectdi.com/design/img/drug/1MnfO1MVz2n.jpg
+K-028129,올멕정 40mg,Olmec Tab. 40mg,올메사탄메독소밀,제이더블유중외제약(주),타원형,하양,O40,마크,,,1,정,469,고혈압,http://connectdi.com/design/img/drug/147426533551600073.jpg
+K-028130,올멕정 20mg,Olmec Tab. 20mg,올메사탄메독소밀,제이더블유중외제약(주),원형,하양,O20,마크,,,1,정,415,고혈압,http://connectdi.com/design/img/drug/147426533551600078.jpg
+K-028360,코바로살탄정 160/12.5mg,Co-Varosartan Tab. 160/12.5mg,발사르탄|히드로클로로티아지드,동아에스티(주),타원형,빨강,VACH,,,,1,정,831,고혈압,http://connectdi.com/design/img/drug/147426549018000058.jpg
+K-028468,피타로우정 2mg,,피타바스타틴칼슘,(주)종근당,원형,분홍,PITA,분할선,,-,1,정,543,고지혈증,http://connectdi.com/design/img/drug/1NDmwB5AqlB.jpg
+K-028641,브릴린타정 90mg,Brilinta Tab. 90mg,티카그렐러,한국아스트라제네카(주),원형,노랑,90T,,,,1,정,606,뇌졸중,http://connectdi.com/design/img/drug/147426559700200171.jpg
+K-028813,텔미트렌정 80mg,Telmitren Tab. 80mg,텔미사르탄,(주)종근당,타원형,하양,T2,분할선,,-,1,정,573,고혈압,http://connectdi.com/design/img/drug/1MzSGdZk4AS.jpg
+K-028828,글리멜엠정 2/500mg,Glimel-M Tab.?,글리메피리드|메트포르민염산염,동아에스티(주),타원형,하양,GLM25,,,,1,정,167,당뇨,http://connectdi.com/design/img/drug/147426575880200136.jpg
+K-028864,글리멜엠정 1/250mg,Glimel-M Tab.?,글리메피리드|메트포르민염산염,동아에스티(주),타원형,하양,GLM12,,,,1,정,112,당뇨,http://connectdi.com/design/img/drug/147426575880200112.jpg
+K-029533,콤비글라이즈서방정 5/500mg,Kombiglyze XR 5/500mg,메트포르민염산염|삭사글립틴수화물,한국아스트라제네카(주),장방형,주황,5/500,4221,,,1,정,827,당뇨,http://connectdi.com/design/img/drug/147426604172000089.jpg
+K-029534,콤비글라이즈서방정 5/1000mg,Kombiglyze XR 5/1000mg,메트포르민염산염|삭사글립틴수화물,한국아스트라제네카(주),타원형,분홍,5/1000,4223,,,1,정,827,당뇨,http://connectdi.com/design/img/drug/147426604172000092.jpg
+K-029667,리바로정 4mg,Livalo Tab. 4mg,피타바스타틴칼슘,제이더블유중외제약(주),원형,노랑,마크203,분할선,,-,1,정,815,고지혈증,http://connectdi.com/design/img/drug/147426609286000173.jpg
+K-029760,제미글로정 50mg,Zemiglo Tab. 50mg,제미글립틴타르타르산염1.5수화물,(주)엘지화학,기타,주황,마크,분할선,,-,1,정,749,당뇨,http://connectdi.com/design/img/drug/147426616587000167.jpg
+K-021062,비씨로우정,BC Low Tab.,암로디핀베실산염,(주)비씨월드제약,팔각형,하양,BC,BA분할선5,,-,1,정,351,협심증,http://connectdi.com/design/img/drug/150946223524600071.jpg
+K-021063,코비스크정,Kovisk Tab.,암로디핀베실산염,아주약품(주),팔각형,하양,AJU,BA분할선5,,-,1,정,312,협심증,http://connectdi.com/design/img/drug/150946223524500037.jpg
+K-021065,동화암로디핀베실산염정5밀리그램,Dongwha Amlodipine Besylate Tab. 5mg,암로디핀베실산염,동화약품(주),팔각형,하양,D-W,BA분할선5,,-,1,정,353,협심증,http://connectdi.com/design/img/drug/154653000721000025.jpg
+K-021260,트리마셋세미정,Trimacet Semi Tab.,아세트아미노펜|트라마돌염산염,(주)유영제약,장방형,노랑,마크,TSS,,,1,정,101,관절염,http://connectdi.com/design/img/drug/147427897731800089.jpg
+K-021264,울트라메트세미정,Ultramet Semi Tab.,트라마돌염산염|아세트아미노펜,고려제약(주),장방형,노랑,KDC,S,,,1,정,107,관절염,http://connectdi.com/design/img/drug/147427841181200074.jpg
+K-021266,트라노펜세미정,Tramophen Semi Tab.,아세트아미노펜|트라마돌염산염,신풍제약(주),장방형,노랑,마크,T/S,,,1,정,126,관절염,http://connectdi.com/design/img/drug/151914126104600120.jpg
+K-021268,아트세미정,Art Semi Tab.,아세트아미노펜|트라마돌염산염,알보젠코리아(주),장방형,노랑,마크,H/S,,,1,정,107,관절염,http://connectdi.com/design/img/drug/1NfXoJcaoFz.jpg
+K-021270,아세트라셋세미정,Acetracet Semi Tab.,아세트아미노펜|트라마돌염산염,풍림무약(주),장방형,노랑,PL,S/M,,,1,정,119,관절염,http://connectdi.com/design/img/drug/152035092098000025.jpg
+K-021325,아토르바정 10mg,Atorva Tab. 10mg,아토르바스타틴칼슘,(주)유한양행,타원형,하양,YH,10,,,1,정,662,고지혈증,http://connectdi.com/design/img/drug/152035092098100027.jpg
+K-021351,엑스페인세미정,X-Pain Semi Tab.,아세트아미노펜|트라마돌염산염,(주)한독,장방형,노랑,HD,W/S,,,1,정,126,관절염,http://connectdi.com/design/img/drug/147427830100200190.jpg
+K-021387,액피오정 15mg,Acpio Tab. 15mg,피오글리타존염산염,(주)유한양행,원형,하양,YH,15,,,1,정,647,당뇨,http://connectdi.com/design/img/drug/147428263322300058.jpg
+K-021553,펜큐어세미정,Phencure Semi Tab.,트라마돌염산염|아세트아미노펜,현대약품(주),장방형,노랑,HDP,S/M,,,1,정,107,관절염,http://connectdi.com/design/img/drug/154333330132400018.jpg
+K-021555,엔시트라세미정,Ensitra Semi Tab.,트라마돌염산염|아세트아미노펜,한림제약(주),장방형,노랑,HL/S,,,,1,정,126,관절염,http://connectdi.com/design/img/drug/1NiC3AD2YRt.jpg
+K-021612,피어리존정15밀리그램,Piolizone Tab.,피오글리타존염산염,한미약품(주),원형,하양,HM,15,,,1,정,647,당뇨,http://connectdi.com/design/img/drug/1NQDCuOtpkQ.jpg
+K-021644,신노바핀정,Sinnorvapin Tab.,암로디핀베실산염,신일제약(주),팔각형,하양,SINIL,SV분할선5,,-,1,정,355,협심증,http://connectdi.com/design/img/drug/150946447752800059.jpg
+K-021652,라도바정 10mg,Radova Tab. 10mg,아토르바스타틴칼슘수화물,에이치엘비제약(주),원형,하양,LDV,,,,1,정,564,고지혈증,http://connectdi.com/design/img/drug/153495248483200020.jpg
+K-021683,아라펜세미정,Araphen Semi Tab.,트라마돌염산염|아세트아미노펜,(주)셀트리온제약,장방형,노랑,ΛT,,,,1,정,107,관절염,http://connectdi.com/design/img/drug/1NX5POZfTvt.jpg
+K-021692,글루파콤비정 500/80mg,Glupa-Combi Tab. 500/80mg,메트포르민염산염|글리클라지드,(주)다림바이오텍,장방형,하양,마크,GC,,,1,정,121,당뇨,http://connectdi.com/design/img/drug/147427809486700016.jpg
+K-021731,타라마돌정,Taramadol Tab.,아세트아미노펜|트라마돌염산염,동화약품(주),장방형,노랑,D-W,TMD,,,1,정,162,관절염,http://connectdi.com/design/img/drug/154661645879900095.jpg
+K-021732,타라마돌세미정,Taramadol Semi Tab.,아세트아미노펜|트라마돌염산염,동화약품(주),장방형,노랑,D-W,TMS,,,1,정,107,관절염,http://connectdi.com/design/img/drug/154661645879900101.jpg
+K-021733,로자신플러스정,Losarsin Plus Tab.,로사르탄칼륨|히드로클로로티아지드,신풍제약(주),타원형,노랑,마크,LNP,,,1,정,203,고혈압,http://connectdi.com/design/img/drug/147427790536200121.jpg
+K-026794,이노엔로자탄플러스프로정,CJ Losartan Plus Pro Tab.,로사르탄칼륨|히드로클로로티아지드,에이치케이이노엔(주),타원형,하양,IN분할선O,L분할선P,-,-,1,정,286,고혈압,http://connectdi.com/design/img/drug/1NXqH06PUuK.jpg
+K-026813,코디핀정 6mg,Codipine Tab. 6mg,베니디핀염산염,영진약품(주),원형,노랑,CN,6,,,1,정,547,협심증,http://connectdi.com/design/img/drug/148665508550600153.jpg
+K-027039,로스틴정 10mg,Rostin Tab. 10mg,로수바스타틴칼슘,아주약품(주),원형,분홍,ΛJURU,10,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/147426472635700183.jpg
+K-027040,하이엘정 10mg,High-L Tab. 10mg,로수바스타틴칼슘,신일제약(주),원형,분홍,R10,SIH,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/148674131164600168.jpg
+K-027046,대웅로수바스타틴정 5mg,Daewoong Rosuvastatin Tab. 5mg,로수바스타틴칼슘,(주)대웅제약,원형,노랑,D.W,5,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/149723190197300093.jpg
+K-027048,대웅로수바스타틴정 10mg,Daewoong Rosuvastatin Tab. 10mg,로수바스타틴칼슘,(주)대웅제약,원형,분홍,D.W,10,,,1,정,607,고지혈증,http://connectdi.com/design/img/drug/149723190197300143.jpg
+K-027049,탑스타틴정 10mg,Topstatin Tab. 10mg,로수바스타틴칼슘,대화제약(주),원형,분홍,TOP10,마크,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/149723190197300184.jpg
+K-027052,크로우정 10mg,Clow Tab. 10mg,로수바스타틴칼슘,대원제약(주),원형,분홍,DWPRU,10,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/154333323956100013.jpg
+K-027053,로수로드정 5mg,Rosulord Tab. 5mg,로수바스타틴칼슘,(주)종근당,원형,노랑,CKDRSD5,,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/151706768099900047.jpg
+K-027055,수바스트정 10mg,Suvast Tab. 10mg,로수바스타틴칼슘,한미약품(주),원형,분홍,HM,10,,,1,정,598,고지혈증,http://connectdi.com/design/img/drug/147426472635700086.jpg
+K-027057,스타로바정 10mg,Starova Tab. 10mg,로수바스타틴칼슘,(주)비씨월드제약,원형,분홍,BCRV 10,,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/147426472635700095.jpg
+K-027059,크레스논정 10mg,Cresnon Tab. 10mg,로수바스타틴칼슘,동아에스티(주),원형,분홍,CNT10,,,,1,정,609,고지혈증,http://connectdi.com/design/img/drug/1Ml1y5tPwe3.jpg
+K-027060,로바스로정 10mg,Rovasro Tab. 10mg,로수바스타틴칼슘,환인제약(주),원형,분홍,RSV10,,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/152760234663200055.jpg
+K-027061,로수리딘정 10mg,Rosuridin Tab. 10mg,로수바스타틴칼슘,광동제약(주),원형,분홍,KDP,10,,,1,정,520,고지혈증,http://connectdi.com/design/img/drug/147426479322700016.jpg
+K-027064,로수바틴정 10mg,Rosuvatin Tab. 10mg,로수바스타틴칼슘,진양제약(주),원형,분홍,JYRS,10,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/151939939483200081.jpg
+K-027068,로슈타정 10mg,Roshuta Tab. 10mg,로수바스타틴칼슘염,코오롱제약(주),원형,분홍,RST,10,,,1,정,520,고지혈증,http://connectdi.com/design/img/drug/147426472635700127.jpg
+K-027070,유로스틴정 10mg,Urostin Tab. 10mg,로수바스타틴칼슘,(주)유유제약,원형,분홍,YUYU 10,,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/147426472635700136.jpg
+K-027073,슈스타정 5mg,Ciustar Tab. 5mg,로수바스타틴칼슘,안국약품(주),원형,주황,AG,C5,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/147426472635700147.jpg
+K-027076,로비탄정 20mg,Rovitan Tab. 20mg,로수바스타틴칼슘,삼일제약(주),원형,분홍,마크R 20,,,,1,정,686,고지혈증,http://connectdi.com/design/img/drug/151732694515600013.jpg
+K-027077,로비탄정 5mg,Rovitan Tab. 5mg,로수바스타틴칼슘,삼일제약(주),원형,노랑,마크R  5,,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/151732694515600019.jpg
+K-027078,로비탄정 10mg,Rovitan Tab. 10mg,로수바스타틴칼슘,삼일제약(주),원형,분홍,마크R 10,,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/1Mxwka5v47H.jpg
+K-027815,로수테롤정 10mg,Rosuterol Tab. 10mg,로수바스타틴칼슘,(주)메디카코리아,원형,분홍,MKR,10,,,1,정,518,고지혈증,http://connectdi.com/design/img/drug/154596860060500057.jpg
+K-027816,크레토정 10mg,Cretor tab. 10mg,로수바스타틴칼슘,유니메드제약(주),원형,분홍,UMCRE 10,분할선,,-,1,정,518,고지혈증,http://connectdi.com/design/img/drug/148777804344600048.jpg
+K-027978,로수바정 10mg,Rosuva Tab. 10mg,로수바스타틴칼슘,한국프라임제약(주),원형,분홍,KPP,RSV10,,,1,정,442,고지혈증,http://connectdi.com/design/img/drug/147426528014500029.jpg
+K-028076,크리콕스캡슐 200mg,Klicox Cap. 200mg,세레콕시브,삼진제약(주),장방형,하양,SAMJIN 200,,,,1,캡슐,517,관절염,http://connectdi.com/design/img/drug/148604293243500031.jpg
+K-028121,프라닥사캡슐 150mg,Pradaxa Cap. 150mg,다비가트란에텍실레이트메실산염,한국베링거인겔하임(주),장방형,파랑,마크 R150,,,,1,캡슐,1219,뇌졸중,http://connectdi.com/design/img/drug/1MnfO1MVz3N.jpg
+K-028127,올멕플러스정 20/12.5mg,Olmec Plus Tab. 20/12.5mg,올메사탄메독소밀|히드로클로로티아지드,제이더블유중외제약(주),원형,주황,OC,마크,,,1,정,403,고혈압,http://connectdi.com/design/img/drug/147426533551600066.jpg
+K-028128,올멕정 10mg,Olmec Tab. 10mg,올메사탄메독소밀,제이더블유중외제약(주),원형,하양,O10,마크,,,1,정,276,고혈압,http://connectdi.com/design/img/drug/147426533551600069.jpg
+K-028134,올메론정 10mg,Olmeron Tab. 10mg,올메사탄메독소밀,동국제약(주),원형,하양,OM1,마크,,,1,정,277,고혈압,http://connectdi.com/design/img/drug/147426533551600093.jpg
+K-028137,올프레정 10mg,Olpre Tab. 10mg,올메사탄메독소밀,하나제약(주),원형,하양,HN,10,,,1,정,235,고혈압,http://connectdi.com/design/img/drug/147426533551600102.jpg
+K-028144,에이알비-에스디정,ARBSD Tab.,올메사탄메독소밀|히드로클로로티아지드,삼진제약(주),원형,주황,SJ,20P,,,1,정,417,고혈압,http://connectdi.com/design/img/drug/148704361517400154.jpg
+K-028145,에이알비-에스정 20mg,ARBS Tab. 20mg,올메사탄메독소밀,삼진제약(주),원형,하양,SJ,20,,,1,정,416,고혈압,http://connectdi.com/design/img/drug/148704361517400140.jpg
+K-028146,에이알비-에스정 10mg,ARBS Tab. 10mg,올메사탄메독소밀,삼진제약(주),원형,하양,SJ,10,,,1,정,277,고혈압,http://connectdi.com/design/img/drug/148704361517400146.jpg
+K-028155,벨메텍정 10mg,Velmetec Tab. 10mg,올메사르탄메독소밀,(주)종근당,원형,하양,BT10,CKD,,,1,정,277,고혈압,http://connectdi.com/design/img/drug/147426533551600157.jpg
+K-028161,오메탄정 10mg,Ometan Tab. 10mg,올메사탄메독소밀,진양제약(주),원형,하양,JY,1,,,1,정,235,고혈압,http://connectdi.com/design/img/drug/1Mfz8CzCGDU.jpg
+K-028208,올레텐플러스정,Oletan Plus Tab.,올메사탄메독소밀|히드로클로로티아지드,한국유나이티드제약(주),원형,주황,UT,OMP,,,1,정,417,고혈압,http://connectdi.com/design/img/drug/154333342488200022.jpg
+K-028209,올레텐정 10mg,Oleten Tab. 10mg,올메사탄메독소밀,한국유나이티드제약(주),원형,하양,UT,OM10,,,1,정,277,고혈압,http://connectdi.com/design/img/drug/154333342488200028.jpg
+K-028210,올레텐정 20mg,Oleten Tab. 20mg,올메사탄메독소밀,한국유나이티드제약(주),원형,하양,UT,OM20,,,1,정,415,고혈압,http://connectdi.com/design/img/drug/147426538213500092.jpg
+K-028232,프리살탄정 20mg,Prisartan Tab. 20mg,올메사르탄메독소밀,명인제약(주),원형,하양,20,F,,,1,정,380,고혈압,http://connectdi.com/design/img/drug/147426538213500129.jpg
+K-028258,써큐스타정,Circustar Tab.,실로스타졸|은행엽 건조엑스,환인제약(주),타원형,연두,WI,G분할선C,,-,1,정,401,뇌졸중,http://connectdi.com/design/img/drug/148704365936600014.jpg
+K-028296,올레플러스정,Oleplus Tab.,올메사르탄메독소밀|히드로클로로티아지드,한국프라임제약(주),원형,주황,KPP,OLP,,,1,정,304,고혈압,http://connectdi.com/design/img/drug/147426543658200090.jpg
+K-028334,올고탄정 10mg,Olgotan Tab. 10mg,올메사르탄메독소밀,일양약품(주),원형,하양,마크,1,,,1,정,227,고혈압,http://connectdi.com/design/img/drug/149892361982000002.jpg
+K-028336,에스올정 10mg,Esol Tab. 10mg,올메사르탄메독소밀,삼익제약(주),원형,하양,마크,一,,,1,정,227,고혈압,http://connectdi.com/design/img/drug/147426543658300045.jpg
+K-028345,올메세틸엠정 10mg,Omlexetil M Tab. 10mg,올메사탄메독소밀,제일약품(주),원형,하양,O10,JI,,,1,정,227,고혈압,http://connectdi.com/design/img/drug/147426543658300072.jpg
+K-028354,에스올플러스정,Esol Plus Tab.,올메사르탄메독소밀|히드로클로로티아지드,삼익제약(주),원형,주황,마크,2+,,,1,정,304,고혈압,http://connectdi.com/design/img/drug/147426549018000028.jpg
+K-028359,코바로살탄정 80/12.5mg,Co-Varosartan Tab. 80/12.5mg,발사르탄|히드로클로로티아지드,동아에스티(주),타원형,분홍,VAC,,,,1,정,543,고혈압,http://connectdi.com/design/img/drug/147426549018000049.jpg
+K-028385,프레탈서방캡슐(실로스타졸)(비매품),Pletaal SR Cap.,실로스타졸,한국오츠카제약(주),장방형,하양,OG OG29 29,,,,1,캡슐,521,뇌졸중,http://connectdi.com/design/img/drug/151732694515500030.jpg
+K-028442,코디잔틴정 80/12.5mg,Codizantin Tab. 80/12.5mg,발사르탄|히드로클로로티아지드,한국유나이티드제약(주),타원형,분홍,VH80,UT,,,1,정,544,고혈압,http://connectdi.com/design/img/drug/154298778984600112.jpg
+K-028450,노마로크정5밀리그램,Normaloc Tab. 5mg,암로디핀베실산염,하나제약(주),팔각형,하양,HN분할선B5,,-,,1,정,365,협심증,http://connectdi.com/design/img/drug/151732685268700118.jpg
+K-028460,타바로우정,Tavalow Tab.,피타바스타틴칼슘,대원제약(주),원형,하양,분할선,PIT,-,,1,정,561,고지혈증,http://connectdi.com/design/img/drug/147426555198900032.jpg
+K-028463,피타틴정,Pitadin Tab.,피타바스타틴칼슘,삼남제약(주),원형,하양,PTC,분할선,,-,1,정,477,고지혈증,http://connectdi.com/design/img/drug/147426555198900036.jpg
+K-028465,피타정 2mg,Pita Tab. 2mg,피타바스타틴칼슘,(주)서울제약,원형,분홍,마크,분할선,,-,1,정,561,고지혈증,http://connectdi.com/design/img/drug/147426555198900044.jpg
+K-028466,피타큐정 2mg,Pita Q Tab. 2mg,피타바스타틴칼슘,일동제약(주),원형,분홍,ID2,분할선,,-,1,정,533,고지혈증,http://connectdi.com/design/img/drug/151508042749000109.jpg
+K-028469,피타바로틴정 2mg,Pitavalotin Tab. 2mg,피타바스타틴칼슘,환인제약(주),원형,하양,WI,분할선,,-,1,정,561,고지혈증,http://connectdi.com/design/img/drug/147426555198900055.jpg
+K-028475,피타에스정 2mg,Pita S Tab. 2mg,피타바스타틴칼슘,삼아제약(주),원형,하양,마크,PS,,,1,정,561,고지혈증,http://connectdi.com/design/img/drug/146031693747900134.jpg
+K-028481,타스틴정 2mg,Tastin Tab. 2mg,피타바스타틴칼슘,위더스제약(주),원형,하양,마크,분할선,,-,1,정,561,고지혈증,http://connectdi.com/design/img/drug/147426555198900080.jpg
+K-028482,피스타정 2mg,Pista Tab. 2mg,피타바스타틴칼슘,일양약품(주),원형,하양,PS,분할선,,-,1,정,561,고지혈증,http://connectdi.com/design/img/drug/149805864617300093.jpg
+K-028493,동광피타바스타틴정 2mg,Dongkwang Pitavastatin Tab. 2mg,피타바스타틴칼슘,동광제약(주),원형,분홍,DPC 2,분할선,,-,1,정,561,고지혈증,http://connectdi.com/design/img/drug/148777804344600084.jpg
+K-028495,피타바스정 2mg,Pitavas Tab. 2mg,피타바스타틴칼슘,초당약품공업(주),원형,하양,분할선,PTS,-,,1,정,560,고지혈증,http://connectdi.com/design/img/drug/147426555198900104.jpg
+K-028509,레파넘정 1mg,Repanorm Tab. 1mg,레파글리니드,(주)다림바이오텍,원형,노랑,마크,R,,,1,정,160,당뇨,http://connectdi.com/design/img/drug/147426555198900120.jpg
+K-028516,리파틴정 2mg,Lipatin Tab. 2mg,피타바스타틴칼슘,하나제약(주),원형,하양,LIP,분할선,,-,1,정,561,고지혈증,http://connectdi.com/design/img/drug/152104201649100065.jpg
+K-028555,프리살탄정 10mg,Presartan Tab. 10mg,올메사르탄메독소밀,명인제약(주),원형,하양,10,F,,,1,정,182,고혈압,http://connectdi.com/design/img/drug/154298775798400002.jpg
+K-028635,발사원정 160mg,Valsaone Tab. 160mg,발사르탄,에이치케이이노엔(주),타원형,주황,IN분할선O,V16,-,,1,정,782,고혈압,http://connectdi.com/design/img/drug/1NVa1O6Ykik.jpg
+K-028683,바로살탄정 80mg,Varosartan Tab. 80mg,발사르탄,동아에스티(주),원형,갈색,V분할선A,80,-,,1,정,520,고혈압,http://connectdi.com/design/img/drug/147426564858700071.jpg
+K-028684,바로살탄정 40mg,Varosartan Tab. 40mg,발사르탄,동아에스티(주),타원형,갈색,V분할선A,40,-,,1,정,358,고혈압,http://connectdi.com/design/img/drug/147426564858700074.jpg
+K-028693,메바로친정 40mg,Mevarotin Tab. 40mg,프라바스타틴나트륨,에이치케이이노엔(주),타원형,노랑,4분할선0,분할선,-,-,1,정,705,고지혈증,http://connectdi.com/design/img/drug/1MoApPycZmc.jpg
+K-028709,디오살탄정 40mg,Diosartan Tab. 40mg,발사르탄,(주)유한양행,타원형,노랑,Y분할선H,V4,-,,1,정,358,고혈압,http://connectdi.com/design/img/drug/154298782012500037.jpg
+K-028716,발사원정 80mg,Valsaone Tab. 80mg,발사르탄,에이치케이이노엔(주),원형,분홍,INO,V분할선8,,-,1,정,422,고혈압,http://connectdi.com/design/img/drug/1NNuh6mJop8.jpg
+K-028740,발사렉트정 40mg,Valsarect Tab. 40mg,발사르탄,제이더블유중외제약(주),타원형,노랑,V분할선40,VL,-,,1,정,316,고혈압,http://connectdi.com/design/img/drug/154298763309400052.jpg
+K-028763,트라젠타정(리나글립틴),Trajenta Tab.,리나글립틴,한국베링거인겔하임(주),원형,분홍,마크,D5,,,1,정,750,당뇨,http://connectdi.com/design/img/drug/1MnfO1MVz3z.jpg
+K-028790,글라포민엠정 2/500mg,Glaformin-M 2/500mg,메트포르민염산염|글리메피리드,(주)유한양행,타원형,하양,분할선,YH25,-,,1,정,197,당뇨,http://connectdi.com/design/img/drug/147426570506500096.jpg
+K-028792,글리팜엠정 2/500mg,Gilpam M Tab. 2/500mg,글리메피리드|메트포르민염산염,일동제약(주),장방형,하양,IDP m,분할선,,-,1,정,197,당뇨,http://connectdi.com/design/img/drug/149918282910300000.jpg
+K-028814,텔미트렌정 40mg,Telmitren Tab. 40mg,텔미사르탄,(주)종근당,타원형,하양,T1,분할선,,-,1,정,426,고혈압,http://connectdi.com/design/img/drug/1MxGLPXNlf2.jpg
+K-031302,원트란세미서방정,Wontran Semi ER Tab.,트라마돌염산염|아세트아미노펜,대원제약(주),원형,노랑,DWP,XR,,,1,정,279,관절염,http://connectdi.com/design/img/drug/1MYTX0L3K2B.jpg
+K-031326,로우딘정 5mg,Lowdin Tab. 5mg,암로디핀베실산염,위더스제약(주),팔각형,하양,마크,BA분할선5,,-,1,정,367,협심증,http://connectdi.com/design/img/drug/152285649754900008.jpg
+K-031327,에이스린장용정(아스피린),Acerin Enteric Coated Tab.,아스피린,(주)한국파비스제약,원형,하양,PA,,,,1,정,71,뇌졸중,http://connectdi.com/design/img/drug/147426729915800111.jpg
+K-031328,시너젯이알세미서방정,Synerget ER Semi Tab.,트라마돌염산염|아세트아미노펜,삼진제약(주),원형,노랑,SJ,ER,,,1,정,277,관절염,http://connectdi.com/design/img/drug/1MpNPEsu-dp.jpg
+K-031330,라코르정 60/12.5mg,Lacor Tab. 60/12.5mg,피마사르탄칼륨삼수화물|히드로클로로티아지드,동화약품(주),타원형,노랑,D-W,FH분할선6,,-,1,정,670,고혈압,http://connectdi.com/design/img/drug/149723197859900009.jpg
+K-031391,에바스크정,Evasc Tab.,암로디핀베실산염,태극제약(주),팔각형,하양,JS,AM분할선5,,-,1,정,312,협심증,http://connectdi.com/design/img/drug/1N7WiIONwqt.jpg
+K-031472,레바캄정 10/80mg,Levacalm Tab. 10/80mg,레르카니디핀염산염|발사르탄,(주)엘지화학,원형,주황,LG108,,,,1,정,768,고혈압,http://connectdi.com/design/img/drug/147426742408200079.jpg
+K-031473,레바캄정 20/160mg,Levacalm Tab. 20/160mg,레르카니디핀염산염|발사르탄,(주)엘지화학,타원형,분홍,LG216,,,,1,정,1037,고혈압,http://connectdi.com/design/img/drug/147426742408200082.jpg
+K-031481,레바캄정 10/160mg,Levacalm Tab. 10/160mg,레르카니디핀염산염|발사르탄,(주)엘지화학,타원형,주황,LG116,,,,1,정,974,고혈압,http://connectdi.com/design/img/drug/147426742408200122.jpg
+K-031490,아스피드정(아스피린),Aspid Tab.,아스피린,(주)일화,원형,하양,IHΛ,,,,1,정,77,뇌졸중,http://connectdi.com/design/img/drug/147426742408200179.jpg
+K-031494,디크리핀서방정 5mg,Decreapin SR Tab. 5mg,펠로디핀,(주)제뉴파마,원형,분홍,BPH,P5,,,1,정,312,협심증,http://connectdi.com/design/img/drug/147426742408200176.jpg
+K-031544,오로살탄정 5/80mg,Orosartan Tab. 5/80mg,발사르탄|암로디핀오로트산염,동아에스티(주),원형,주황,ORT,,,,1,정,729,협심증,http://connectdi.com/design/img/drug/147426747691200137.jpg
+K-031624,멜로디구강붕해정 7.5mg,Melo-D ODT. 7.5mg,멜록시캄,(주)엔엠제약,원형,노랑,AX6,,,,1,정,270,관절염,http://connectdi.com/design/img/drug/147426760981500042.jpg
+K-031680,자렐토정 2.5mg,XARELTO Tab. 2.5mg,리바록사반,바이엘코리아(주),원형,노랑,마크,▽2.5,,,1,정,712,뇌졸중,http://connectdi.com/design/img/drug/149723220784500026.jpg
+K-031695,펠로딥정,Felodip Tab.,펠로디핀,(주)일화,원형,분홍,IH,F5,,,1,정,312,협심증,http://connectdi.com/design/img/drug/147426760981500184.jpg
+K-031699,에스부펜정,S-bufen Tab.,덱시부프로펜,삼천당제약(주),원형,분홍,SCD,,,,1,정,115,관절염,http://connectdi.com/design/img/drug/147426768452000008.jpg
+K-031701,하원아스피린장용정 100mg,Hawon Aspirin Enteric Coated Tab. 100mg,아스피린,(주)하원제약,원형,하양,hw07,,,,1,정,77,뇌졸중,http://connectdi.com/design/img/drug/147426768452000011.jpg
+K-031702,록소쿨정,Loxocool Tab.,록소프로펜나트륨수화물,(주)화이트생명과학,원형,하양,마크,4,,,1,정,106,관절염,http://connectdi.com/design/img/drug/153858122989400074.jpg
+K-031705,낙소졸정 500/20mg,Naxozole Tab. 500/20mg,나프록센|에스오메프라졸스트론튬사수화물,한미약품(주),타원형,노랑,마크,Naxozol500/20,,,1,정,445,관절염,http://connectdi.com/design/img/drug/154597931877100021.jpg
+K-031753,로소프린정,Loxoprin Tab.,록소프로펜나트륨수화물,한화제약(주),원형,하양,LOP,,,,1,정,106,관절염,http://connectdi.com/design/img/drug/147426772050300069.jpg
+K-032270,바소피린장용정,Vasopirin Enteric Coated Tab.,아스피린,조아제약(주),원형,하양,VP,,,,1,정,77,뇌졸중,http://connectdi.com/design/img/drug/147426812405600024.jpg
+K-032303,테라펜세미정,Teraphen-semi Tab.,트라마돌염산염|아세트아미노펜,(주)넥스팜코리아,장방형,노랑,NKTS,,,,1,정,126,관절염,http://connectdi.com/design/img/drug/147426812405600089.jpg
+K-032341,수바스트정 5mg,Suvast Tab. 5mg,로수바스타틴칼슘,한미약품(주),원형,주황,HM,R5,,,1,정,325,고지혈증,http://connectdi.com/design/img/drug/147426812405600176.jpg
+K-032342,에스디핀정,S-dipine Tab.,에스암로디핀베실산염2.5수화물,(주)팜젠사이언스,기타,노랑,SD,분할선,,-,1,정,367,협심증,http://connectdi.com/design/img/drug/147426812405600173.jpg
+K-032377,뉴스크정 5mg,Newsc Tab. 5mg,암로디핀베실산염,오스틴제약(주),팔각형,하양,WK,A분할선5,,-,1,정,312,협심증,http://connectdi.com/design/img/drug/1Mp3yEn25MK.jpg
+K-032403,크레첵정 10mg,,로수바스타틴칼슘,한림제약(주),원형,분홍,HLRSV,10,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/147426820767200134.jpg
+K-032410,류스펜정,Rheusfen Tab.,록소프로펜나트륨수화물,(주)유영제약,원형,하양,LXY,마크,,,1,정,106,관절염,http://connectdi.com/design/img/drug/1N34MmQGHAC.jpg
+K-032440,모노로바정 10mg,Monorova Tab. 10mg,로수바스타틴칼슘,(주)유한양행,원형,분홍,RS10,YH,,,1,정,600,고지혈증,http://connectdi.com/design/img/drug/147426827284100011.jpg
+K-032441,모노로바정 20mg,Monorova Tab. 20mg,로수바스타틴칼슘,(주)유한양행,원형,분홍,RS20,YH,,,1,정,680,고지혈증,http://connectdi.com/design/img/drug/147426827284100014.jpg
+K-032442,모노로바정 5mg,Monorova Tab. 5mg,로수바스타틴칼슘,(주)유한양행,원형,노랑,RS5,YH,,,1,정,340,고지혈증,http://connectdi.com/design/img/drug/147426827284100020.jpg
+K-032448,콜로스타정 5mg,Cholostar Tab. 5mg,로수바스타틴칼슘,신풍제약(주),원형,주황,마크,R5,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/147426827284100039.jpg
+K-032493,로레스토정 5mg,,로수바스타틴칼슘,알보젠코리아(주),원형,노랑,HwR5,,,,1,정,294,고지혈증,http://connectdi.com/design/img/drug/1NeFqpW1gk1.jpg
+K-032505,유한아스피린장용정,Yuhan Aspirin Enteric coated Tab.,아스피린,(주)유한양행,원형,하양,YuhanASP100,,,,1,정,61,뇌졸중,http://connectdi.com/design/img/drug/152795414571600029.jpg
+K-032521,로수넥스정 10mg,,로수바스타틴칼슘,(주)바이넥스,원형,분홍,마크,R10,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/147426827284100196.jpg
+K-032537,크레고정 10mg,,로수바스타틴칼슘,일양약품(주),원형,분홍,CRE,10,,,1,정,520,고지혈증,http://connectdi.com/design/img/drug/147426832242900061.jpg
+K-032541,에스로틴정5밀리그램(로수바스타틴칼슘),Esrotin Tab. 5mg,로수바스타틴칼슘,에스케이케미칼(주),원형,주황,SK,RSV 5,,,1,정,300,고지혈증,http://connectdi.com/design/img/drug/1MlMmwHGNi0.jpg
+K-032543,로스톤정 5mg,,로수바스타틴칼슘,(주)휴온스,원형,노랑,HS,5,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/147426832242900037.jpg
+K-032544,로스톤정 10mg,,로수바스타틴칼슘,(주)휴온스,원형,분홍,HS,10,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/147426832242900040.jpg
+K-032547,로수바스타퀄정 10mg,Rosuvastaqual Tab. 10mg,로수바스타틴칼슘,(주)한독,원형,분홍,TH,10,,,1,정,520,고지혈증,http://connectdi.com/design/img/drug/148674121065200130.jpg
+K-032550,제뉴원올메사탄정 10mg,Kolmar Olmesartan Tab. 10mg,올메사탄메독소밀,주식회사제뉴원사이언스,원형,하양,KK,10,,,1,정,272,고혈압,http://connectdi.com/design/img/drug/1Ng1bQNO9Wc.jpg
+K-032561,크레아진정 10mg,Creazin Tab. 10mg,로수바스타틴칼슘,영진약품(주),원형,분홍,YJRSV 10,,,,1,정,599,고지혈증,http://connectdi.com/design/img/drug/147426832242900105.jpg
+K-032562,크레아진정 5mg,Creazin Tab. 5mg,로수바스타틴칼슘,영진약품(주),원형,주황,YJRSV 5,,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/147426832242900108.jpg
+K-032567,크로스타정 5mg,Crosta Tab. 5mg,로수바스타틴칼슘,일성신약(주),원형,노랑,RV5,ISP,,,1,정,294,고지혈증,http://connectdi.com/design/img/drug/147426832242900123.jpg
+K-032575,명문로수바스타틴칼슘정 5mg,Myungmoon Rosuvastatin Calcium Tab. 5mg,로수바스타틴칼슘,명문제약(주),원형,주황,MM,5,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/1N8jUtEiHmE.jpg
+K-032579,크로우정 5mg,Crow Tab. 5mg,로수바스타틴칼슘,대원제약(주),원형,주황,DWPRU,5,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/147426832242900152.jpg
+K-032580,크레첵정 5mg,,로수바스타틴칼슘,한림제약(주),원형,주황,C,5,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/1NXqH06PV61.jpg
+K-032583,비바코정 5mg,Vivacor Tab. 5mg,로수바스타틴칼슘,에이치케이이노엔(주),원형,주황,ZD4522  5,,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/147426832242900176.jpg
+K-032591,로바스로정 5mg,Rovasro Tab. 5mg,로수바스타틴칼슘,환인제약(주),원형,주황,RSV5,,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/147426837868200000.jpg
+K-032597,유영아스피린장용정 100mg,Yooyoung Aspirin Enteric Coated Tab. 100mg,아스피린,(주)유영제약,원형,하양,YAS100,,,,1,정,77,뇌졸중,http://connectdi.com/design/img/drug/152795414571600065.jpg
+K-032600,디아딘정,Diadin Tab.,암로디핀베실산염,에스피씨(주),팔각형,하양,SPP,aM,,,1,정,312,협심증,http://connectdi.com/design/img/drug/147426837868200040.jpg
+K-032615,로수브이정 10mg,Rosu V Tab. 10mg,로수바스타틴칼슘,위더스제약(주),원형,분홍,마크,RV,,,1,정,612,고지혈증,http://connectdi.com/design/img/drug/147759751439100174.jpg
+K-034091,엠디핀에스정,Emdipin S Tab.,에스암로디핀베실산염2.5수화물,이연제약(주),기타,노랑,R분할선Y,S,-,,1,정,312,협심증,http://connectdi.com/design/img/drug/1MiQk9lOCL9.jpg
+K-034093,하이엘정 5mg,,로수바스타틴칼슘,신일제약(주),원형,주황,R5,SIH,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/148674131164600174.jpg
+K-034095,암로바정,Amlova Tab.,암로디핀베실산염,한국코러스(주),팔각형,하양,H분할선K,,-,,1,정,312,협심증,http://connectdi.com/design/img/drug/147426928131000026.jpg
+K-034142,알피린장용정,Alpirin Enteric Coated Tab.,아스피린,(주)제일제약,원형,하양,PR,,,,1,정,77,뇌졸중,http://connectdi.com/design/img/drug/147426928131000121.jpg
+K-034215,노마에스정2.5밀리그램,Noma-S Tab.,에스암로디핀베실산염2.5수화물,하나제약(주),기타,노랑,HN,분할선,,-,1,정,312,협심증,http://connectdi.com/design/img/drug/147426933077600158.jpg
+K-034237,메트폭스서방정,Metfox SR Tab.,메트포르민염산염,제이더블유중외제약(주),장방형,하양,MX,마크,,,1,정,101,당뇨,http://connectdi.com/design/img/drug/147426933077600190.jpg
+K-034249,로디비카정 5/40mg,Lodivikar Tab. 5/40mg,에스암로디핀니코틴산염|올메사탄메독소밀,한림제약(주),원형,빨강,L54,HL,,,1,정,814,협심증,http://connectdi.com/design/img/drug/147426933077600085.jpg
+K-034250,로디비카정 2.5/40mg,Lodivikar Tab. 2.5/40mg,에스암로디핀니코틴산염|올메사탄메독소밀,한림제약(주),원형,노랑,L24,HL,,,1,정,702,협심증,http://connectdi.com/design/img/drug/147426933077600088.jpg
+K-034251,로디비카정 2.5/20mg,Lodivikar Tab. 2.5/20mg,에스암로디핀니코틴산염|올메사탄메독소밀,한림제약(주),원형,하양,L2,HL,,,1,정,640,협심증,http://connectdi.com/design/img/drug/147426933077600094.jpg
+K-034264,세레온캡슐(세레콕시브),Celeon Cap.,세레콕시브,(주)휴온스,장방형,하양,마크CLO,,,,1,캡슐,510,관절염,http://connectdi.com/design/img/drug/1NiMOgdGTad.jpg
+K-034275,올멕포스정 5/20mg,Olmecforce Tab. 5/20mg,암로디핀베실산염|올메사탄메독소밀,제이더블유중외제약(주),원형,하양,J73,,,,1,정,696,협심증,http://connectdi.com/design/img/drug/147426938187600096.jpg
+K-034285,시원나정,Siwonna Tab.,록소프로펜나트륨수화물,영일제약(주),원형,하양,YI분할선13,,-,,1,정,125,관절염,http://connectdi.com/design/img/drug/147426938187600140.jpg
+K-034297,메디로펜정,Medirofen Tab.,록소프로펜나트륨수화물,메딕스제약(주),원형,하양,LXF,MDS,,,1,정,106,관절염,http://connectdi.com/design/img/drug/147426938187600166.jpg
+K-034316,영진암로디핀정,Amlodipine Tab. Yungjin,암로디핀베실산염,영진약품(주),팔각형,하양,YJP,AM분할선5,,-,1,정,317,협심증,http://connectdi.com/design/img/drug/147426943179400028.jpg
+K-034321,휴비스트아스피린장용정,Aspirin Enteric Coated Tab. Huvist,아스피린,(주)휴비스트제약,원형,하양,마크,ΛS2,,,1,정,77,뇌졸중,http://connectdi.com/design/img/drug/152769079471500155.jpg
+K-034356,아세돌세미정,Acedol Semi Tab.,트라마돌염산염|아세트아미노펜,(주)이든파마,장방형,노랑,E02,,,,1,정,107,관절염,http://connectdi.com/design/img/drug/147426948856300005.jpg
+K-034448,휴레스토정 5mg,,로수바스타틴칼슘,(주)휴비스트제약,원형,주황,마크,5,,,1,정,294,고지혈증,http://connectdi.com/design/img/drug/152769484199600048.jpg
+K-034501,세비살탄정 5/20mg,Sevisartan Tab. 5/20mg,올메사탄메독소밀|암로디핀오로트산염,동아에스티(주),원형,하양,OA,,,,1,정,555,협심증,http://connectdi.com/design/img/drug/147426953978800197.jpg
+K-034502,세비살탄정 10/40mg,Sevisartan Tab. 10/40mg,올메사탄메독소밀|암로디핀오로트산염,동아에스티(주),원형,갈색,OC,,,,1,정,777,협심증,http://connectdi.com/design/img/drug/147426959368900000.jpg
+K-034503,세비살탄정 5/40mg,Sevisartan Tab. 5/40mg,올메사탄메독소밀|암로디핀오로트산염,동아에스티(주),원형,노랑,OF,,,,1,정,666,협심증,http://connectdi.com/design/img/drug/147426959368900003.jpg
+K-034505,로스토정 5mg,Rosto Tab. 5mg,로수바스타틴칼슘,하나제약(주),원형,주황,R5,HN,,,1,정,346,고지혈증,http://connectdi.com/design/img/drug/147426959368900013.jpg
+K-001029,부루펜정 400mg,Brufen Tab. 400mg,이부프로펜,삼일제약(주),장방형,하양,마크,BR4,,,1,정,51,관절염,http://connectdi.com/design/img/drug/1Mxwka5v465.jpg
+K-000609,슈다페드정(슈도에페드린염산염),Pseudafed Tab. 60mg,슈도에페드린염산염,삼일제약(주),원형,하양,마크분할선SD분할선마크분할선SD,마크분할선SD분할선마크분할선SD,+,+,1,정,32,기타,http://connectdi.com/design/img/drug/151732694515500108.jpg
+K-003078,뮤코스텐캡슐 100mg,Mucosten Cap. 100mg,아세틸시스테인,(주)메디카코리아,장방형,초록,MK MU1,,,,1,캡슐,57,기타,http://connectdi.com/design/img/drug/147427490112100092.jpg
+K-004637,삼남아세트아미노펜정,Acetaminophen Tab. 300mg Samnam,아세트아미노펜,삼남제약(주),원형,하양,AA3,분할선,,-,1,정,22,관절염,http://connectdi.com/design/img/drug/147427668455400017.jpg
+K-034192,베로핀정5mg,Belopine Tab. 5mg,암로디핀베실산염,(주)휴비스트제약,,,,,,,1,정,367,협심증,
