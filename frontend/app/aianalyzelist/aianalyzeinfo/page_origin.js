@@ -1,3 +1,6 @@
+// 2024.06.18~2024.06.25
+// 이승주
+
 "use client"
 
 import IncHeader from "@/app/components/inc_header";
