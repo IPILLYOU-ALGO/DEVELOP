@@ -60,15 +60,9 @@
 ## ✨ Main Function
 ### 📃 알약 찾기(Durg-search)
  회원가입이 된 사용자라면 누구나 약봉투와 알약만 있다면 카메라로 알약 인식 기능을 사용할 수 있으며, 데이터셋 안에 있는 알약을 다 검출할 수 있습니다.
-<img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%B4%AC%EC%98%81%EB%B0%A9%EC%8B%9D%EC%84%A0%ED%83%9D.png"><img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%95%BD%EB%B4%89%ED%88%AC%EC%B4%AC%EC%98%81.png"> <img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%95%8C%EC%95%BD%EC%B4%AC%EC%98%81.png"> 
-<br/> 
-
 
 ### 📃 알약 발견(Durg-discovery)
  구축된 약봉투확인모델(TesseractOCR) 과 알약 인식 모델(Yolov8+Resnet)로 검출된 알약을 확인하며 검출되지 않은 약을 추가하고, 잘못 검출된 약은 삭제할 수 있습니다.
-<img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%95%8C%EC%95%BD%EA%B2%80%EC%83%891.png"><img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%95%8C%EC%95%BD%EA%B2%80%EC%83%89.png">
-<br/> 
-
 
 ### 📃 알약 분석(Durg-analyze)
  사용자는 1일 복용량을 설정하며 검출된 약에 대한 상세정보, 검색 모델(Lanchain)을 활영히여 복용중인 약과 상쇄되는 약, 가격에 대한 정보를 고지해줍니다.
