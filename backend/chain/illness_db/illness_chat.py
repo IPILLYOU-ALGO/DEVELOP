@@ -1,3 +1,10 @@
+######################################################
+#개발자: 양정원(won15367)
+#기간: 2024.06.17 ~ 2024.06.25
+#구현기능: 질병정보 랭체인 구현
+######################################################
+
+
 import os
 from langchain_community.chat_models import ChatOpenAI
 from langchain_community.vectorstores import Chroma
@@ -9,7 +16,7 @@ from langchain.prompts import ChatPromptTemplate
 from langchain.chains import ConversationChain
 
 
-
+# openAI 키값을 입력
 os.environ["OPENAI_API_KEY"] = "openAiKey"
 
 # ---------------------------------------------------------------

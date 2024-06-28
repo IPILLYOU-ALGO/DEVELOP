@@ -1,3 +1,10 @@
+######################################################
+#개발자: 양정원(won15367)
+#기간: 2024.06.17 ~ 2024.06.25
+#구현기능: 의약품 상호작용 랭체인 구현
+######################################################
+
+
 import os
 from langchain_community.chat_models import ChatOpenAI
 from langchain_community.vectorstores import Chroma
@@ -9,14 +16,13 @@ from langchain.prompts import ChatPromptTemplate
 from langchain.chains import ConversationChain
 
 
-
-
+# openAI 키값을 입력
 os.environ["OPENAI_API_KEY"] = "openAiKey"
 
 # ---------------------------------------------------------------
 # chromaDB 읽어오기
 # 경로설정
-persist_directory = './chain/langchain_p311/langchain_db/db_medicine_mutual'
+persist_directory = './chain/langchain_db/db_medicine_mutual'
 embedding = OpenAIEmbeddings()
 # vectordb불러오기
 vectordb = Chroma(
@@ -36,11 +42,6 @@ retriever = vectordb.as_retriever(search_kwargs={'k':3})
 
 
 # ---------------------------------------------------------------
-# 템플레이트 임시저장소 --------------------------
-# 질문한 2가지 약에 대한 상호작용에 대해서만 대답해줘.
-# 상호작용이 없는 경우에는 "상호작용이 없습니다"라고 말해줘.
-# 상호작용이 있는 경우에는 상호작용이 없는 경우에는 "상호 작용이 없습니다 라고 말씀드립니다."라고 출력하지 말 것.
-# 
 
 template = """약사가 환자에게 설명하듯이 쉽게 설명해줘. 
             / 글자수는 200자 이내로 해줘.
