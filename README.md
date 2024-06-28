@@ -7,11 +7,7 @@
 ## 👪 Team I FILL YOU
 | 강지영(PM)                             | 김혜인                                              | 양정원                                        | 양하영                                    | 이승주                                              |
 |--------------------------------------|--------------------------------------------------|--------------------------------------------|----------------------------------------|--------------------------------------------------|
-|<img width="242" alt="image"  | 
-|<img width="242" alt="image"  | 
-|<img width="242" alt="image"  | 
-|<img width="242" alt="image"  | 
-|<img width="242" alt="image"  | 
+|<img width="242" alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%A7%80%EC%98%81.png"> | <img width="242" alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%ED%98%9C%EC%9D%B8.png">| <img width="242" alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%A0%95%EC%9B%90.png">|<img width="242" alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%ED%95%98%EC%98%81.png">|<img width="242" alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%8A%B9%EC%A3%BC.png">|
 | - Product Manager <br> - AI(EasyOCR) | - AI(Resnet) <br> -BackEnd(Login) <br> -BackEnd(Drug-search) | - Data preprocessing <br> -AI(LangChain) <br> -BackEnd(Drug-Analyze) | - AI(Yolov8) <br> -BackEnd(Drug-discovery) | - AI(EasyOCR, TesseractOCR) <br> -FrontEnd|
 | [@toutesmes](https://github.com/toutesmes) | [@hen-ni](https://github.com/Hennnni)             | [@won15367](https://github.com/won15367) | [@yyeongha](https://github.com/yyeongha) | [@ju1115](https://github.com/ju1115)         |
 <br/>
@@ -45,7 +41,7 @@
 
 
 ## 🗺 Service Architecture
-<br>
+
 
 
 ## ✨ Main Function
