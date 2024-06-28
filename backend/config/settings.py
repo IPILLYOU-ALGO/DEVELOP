@@ -50,8 +50,14 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
 ]
 
+##################################################
+#개발자: 양하영(yyeongha)
+#기간: 2024.06.28
+#구현기능: Custom Apps 추가
+##################################################
+
 CUSTOM_APPS = [
-    "drugs.apps.DrugsConfig",
+    "drug.apps.DrugConfig",
     "users.apps.UsersConfig",
 ]
 
