@@ -5,19 +5,16 @@
 
 
 ## 👪 Team I FILL YOU
-| 강지영(PM)                              | 김혜인                                              | 양정원                                     | 양하영                                 | 이승주                                              |
+| 강지영(PM)                             | 김혜인                                              | 양정원                                        | 양하영                                    | 이승주                                              |
 |--------------------------------------|--------------------------------------------------|--------------------------------------------|----------------------------------------|--------------------------------------------------|
-
+|<img width="242" alt="image"  | 
+|<img width="242" alt="image"  | 
+|<img width="242" alt="image"  | 
+|<img width="242" alt="image"  | 
+|<img width="242" alt="image"  | 
 | - Product Manager <br> - AI(EasyOCR) | - AI(Resnet) <br> -BackEnd(Login) <br> -BackEnd(Drug-search) | - Data preprocessing
 <br> AI(LangChain) <br> -BackEnd(Drug-Analyze) | - AI(Yolov8) <br> -BackEnd(Drug-discovery) | - AI(EasyOCR, TesseractOCR) <br> -FrontEnd|
 | [@toutesmes](https://github.com/toutesmes) | [@hen-ni](https://github.com/Hennnni)             | [@won15367](https://github.com/won15367) | [@yyeongha](https://github.com/yyeongha) | [@ju1115](https://github.com/ju1115)         |
-<br/>
-
-| 이경원(PM)                              | 김혜인                                              | 이우엽                                        | 이채림                                    | 전상희                                              |
-|--------------------------------------|--------------------------------------------------|--------------------------------------------|----------------------------------------|--------------------------------------------------|
-|<img width="242" alt="image" src="https://github.com/fundfun/fund_fund/assets/103356049/29ac063d-bab2-466c-bad9-a3f46fd68b38"> | <img width="242" alt="image" src="https://github.com/fundfun/fund_fund/assets/103356049/068087de-45a8-40b2-8e73-d794ce23454e">| <img width="242" alt="image" src="https://github.com/fundfun/fund_fund/assets/103356049/4b309022-3931-40d0-a112-b8be2715f024">|<img width="242" alt="image" src="https://github.com/fundfun/fund_fund/assets/103356049/bd2a606e-15c0-4186-9e49-dbefe3e2380b">|<img width="242" alt="image" src="https://github.com/fundfun/fund_fund/assets/103356049/e50ab7b4-0b95-4058-9744-77e84d99f481">|
-| - User <br> - Authority <br> - Alarm | - Post <br> - Portfolio <br> - Vote <br> - Reply | - Product <br> - Order <br> - Payment      | - Product <br> - Order <br> - Payment  | - Post <br> - Portfolio <br> - Vote <br> - Reply |
-| [@yeoooo](https://github.com/yeoooo) | [@hen-ni](https://github.com/hen-ni)             | [@leewooyup](https://github.com/leewooyup) | [@lee5917](https://github.com/lee5917) | [@ybwi0912](https://github.com/ybwi0912)         |
 <br/>
 
 ## 💡 Introduction
