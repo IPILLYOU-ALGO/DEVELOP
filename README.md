@@ -12,8 +12,7 @@
 |<img width="242" alt="image"  | 
 |<img width="242" alt="image"  | 
 |<img width="242" alt="image"  | 
-| - Product Manager <br> - AI(EasyOCR) | - AI(Resnet) <br> -BackEnd(Login) <br> -BackEnd(Drug-search) | - Data preprocessing
-<br> AI(LangChain) <br> -BackEnd(Drug-Analyze) | - AI(Yolov8) <br> -BackEnd(Drug-discovery) | - AI(EasyOCR, TesseractOCR) <br> -FrontEnd|
+| - Product Manager <br> - AI(EasyOCR) | - AI(Resnet) <br> -BackEnd(Login) <br> -BackEnd(Drug-search) | - Data preprocessing AI(LangChain) <br> -BackEnd(Drug-Analyze) | - AI(Yolov8) <br> -BackEnd(Drug-discovery) | - AI(EasyOCR, TesseractOCR) <br> -FrontEnd|
 | [@toutesmes](https://github.com/toutesmes) | [@hen-ni](https://github.com/Hennnni)             | [@won15367](https://github.com/won15367) | [@yyeongha](https://github.com/yyeongha) | [@ju1115](https://github.com/ju1115)         |
 <br/>
 
