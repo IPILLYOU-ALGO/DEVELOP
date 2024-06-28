@@ -1,3 +1,8 @@
+////////////////////////////////////////
+// 개발자 : 이승주(joo4123)
+// 기간 : 2024.06.19-2024.06.25
+// 구현기능 : 전달 받은 데이터 표시 및 전송
+////////////////////////////////////////
 "use client";
 import IncHeader from "../components/inc_header";
 import Switch from '@mui/material/Switch';

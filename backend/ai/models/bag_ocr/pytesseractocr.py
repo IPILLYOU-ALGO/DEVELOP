@@ -4,6 +4,7 @@
 # 2024. 6 .9 수정
 # pip install pillow
 # pip install opencv
+# re, difflib 전처리 후 ocr 구현
 ##########################
 import os
 import cv2

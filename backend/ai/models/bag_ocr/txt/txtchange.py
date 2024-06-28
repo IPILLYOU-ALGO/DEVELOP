@@ -4,6 +4,7 @@
 # 2024. 6 .9 수정
 # pip install fasttext-wheel
 # pip install cdifflib
+# difflib 오탈자 수정
 ##########################
 import os
 import difflib
