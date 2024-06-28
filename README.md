@@ -67,12 +67,11 @@
 ### 📃 알약 분석(Durg-analyze)
  사용자는 1일 복용량을 설정하며 검출된 약에 대한 상세정보, 검색 모델(Lanchain)을 활영히여 복용중인 약과 상쇄되는 약, 가격에 대한 정보를 고지해줍니다.
 <p>
-    <img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%B4%AC%EC%98%81%EB%B0%A9%EC%8B%9D%EC%84%A0%ED%83%9D.png" style="width:100px;">
-    <img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%95%BD%EB%B4%89%ED%88%AC%EC%B4%AC%EC%98%81.png" style="width:100px;">
-    <img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%95%8C%EC%95%BD%EC%B4%AC%EC%98%81.png" style="width:100px;">
-    <img alt="image" src="https://github.com/IPILLYOUALGO/DEVELOP/blob/main/asset/%EC%95%8C%EC%95%BD%EA%B2%80%EC%83%891.png" style="width:100px;">
-    <img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%95%8C%EC%95%BD%EA%B2%80%EC%83%89.png" style="width:100px;">
-    <img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%95%8C%EC%95%BD%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC1.png" style="width:100px;">
+    <img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%B4%AC%EC%98%81%EB%B0%A9%EC%8B%9D%EC%84%A0%ED%83%9D.png" style="width:150px;">
+    <img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%95%BD%EB%B4%89%ED%88%AC%EC%B4%AC%EC%98%81.png" style="width:150px;">
+    <img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%95%8C%EC%95%BD%EC%B4%AC%EC%98%81.png" style="width:150px;">
+    <img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%95%8C%EC%95%BD%EA%B2%80%EC%83%89.png" style="width:150px;">
+    <img alt="image" src="https://github.com/IPILLYOU-ALGO/DEVELOP/blob/main/asset/%EC%95%8C%EC%95%BD%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC1.png" style="width:150px;">
 </p>
 
 
